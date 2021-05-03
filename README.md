@@ -1,6 +1,4 @@
-# Batect example
-
-Reproduces an issue with running batect from a node child process
+# Reproducing an issue running batect from a node child process
 
 To reproduce issue:
 (assuming you have nodejs runtime installed on your machine and have the `node` command on your path)
