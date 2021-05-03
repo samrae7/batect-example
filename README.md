@@ -3,7 +3,7 @@
 Reproduces an issue with running batect from a node child process
 
 To reproduce issue:
-(Assuming you have nodejs runtime installed on your machine and have the `node` command on your path)
+(assuming you have nodejs runtime installed on your machine and have the `node` command on your path)
 
 - clone this repo
 - cd into project directory
